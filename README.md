@@ -1,6 +1,6 @@
 # Learning_Github
 
-Repo for learning Github/Git
+### Repo for learning Github/Git
 
 
 
